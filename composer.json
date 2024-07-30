@@ -1,5 +1,5 @@
 {
-    "name": "svet-penev/laravel-plain-sqs",
+    "name": "svet-penev/laravel-plain-sqs-laravel-11",
     "type": "library",
     "description": "Custom SQS connector for Laravel that supports custom format JSON",
     "keywords": [
